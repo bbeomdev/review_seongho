@@ -17,7 +17,6 @@
 ## 🗂️ 구조 안내
 ```
 AIFFEL_quest_cr
-.
 ├── Exploration
 │   ├── Ex01
 │   │   ├── .ipynb 
