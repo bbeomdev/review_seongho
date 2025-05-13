@@ -7,7 +7,7 @@
 - [x]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
     ![image](https://github.com/user-attachments/assets/10b80b17-24a7-4a84-b53a-0f7adf2b1848)
     ![image](https://github.com/user-attachments/assets/7316aa14-9fb8-4466-a9db-d131aec019bc)
-    ![image](https://github.com/user-attachments/assets/d587d8ae-2df1-476f-b35d-ced588992c91)
+    ![image](https://github.com/user-attachments/assets/b95313c9-8749-4a64-9987-593d90259f27)
     ![image](https://github.com/user-attachments/assets/81a50ac4-e9c1-41ae-af23-afb5812ca012)
     ![image](https://github.com/user-attachments/assets/47e1da12-c581-434a-a4d2-aba51afa5736)
     - 5000, 10000, 20000, 전체단어 총 4가지 단어 수에 대해 8가지 머신러닝 기법을 적용하였으며 정확도 측면에서 SVM을 최고의 모델로 선정하였음
