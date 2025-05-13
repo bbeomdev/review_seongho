@@ -1,0 +1,121 @@
+Model,num_words,metric,score
+Naive Bayes Model,5000,macro F1,0.1102
+Naive Bayes Model,5000,weighted F1,0.6013
+Naive Bayes Model,5000,accuracy,0.6732
+Naive Bayes Model,10000,macro F1,0.0967
+Naive Bayes Model,10000,weighted F1,0.5764
+Naive Bayes Model,10000,accuracy,0.6567
+Naive Bayes Model,20000,macro F1,0.0789
+Naive Bayes Model,20000,weighted F1,0.5315
+Naive Bayes Model,20000,accuracy,0.6193
+Naive Bayes Model,None,macro F1,0.0677
+Naive Bayes Model,None,weighted F1,0.5046
+Naive Bayes Model,None,accuracy,0.5997
+SVM,5000,macro F1,0.6823
+SVM,5000,weighted F1,0.8322
+SVM,5000,accuracy,0.8388
+SVM,10000,macro F1,0.682
+SVM,10000,weighted F1,0.8315
+SVM,10000,accuracy,0.8384
+SVM,20000,macro F1,0.6756
+SVM,20000,weighted F1,0.8316
+SVM,20000,accuracy,0.8388
+SVM,None,macro F1,0.6788
+SVM,None,weighted F1,0.8319
+SVM,None,accuracy,0.8393
+Logistic,5000,macro F1,0.4814
+Logistic,5000,weighted F1,0.7762
+Logistic,5000,accuracy,0.7979
+Logistic,10000,macro F1,0.4721
+Logistic,10000,weighted F1,0.7732
+Logistic,10000,accuracy,0.7956
+Logistic,20000,macro F1,0.4516
+Logistic,20000,weighted F1,0.7671
+Logistic,20000,accuracy,0.7916
+Logistic,None,macro F1,0.4514
+Logistic,None,weighted F1,0.767
+Logistic,None,accuracy,0.7916
+CNB,5000,macro F1,0.482
+CNB,5000,weighted F1,0.7459
+CNB,5000,accuracy,0.7707
+CNB,10000,macro F1,0.4784
+CNB,10000,weighted F1,0.7457
+CNB,10000,accuracy,0.7707
+CNB,20000,macro F1,0.4632
+CNB,20000,weighted F1,0.7391
+CNB,20000,accuracy,0.7671
+CNB,None,macro F1,0.464
+CNB,None,weighted F1,0.7347
+CNB,None,accuracy,0.7649
+Gradient Boosting Tree,5000,macro F1,0.5914
+Gradient Boosting Tree,5000,weighted F1,0.7688
+Gradient Boosting Tree,5000,accuracy,0.7703
+Gradient Boosting Tree,10000,macro F1,0.5803
+Gradient Boosting Tree,10000,weighted F1,0.7699
+Gradient Boosting Tree,10000,accuracy,0.7743
+Gradient Boosting Tree,20000,macro F1,0.5842
+Gradient Boosting Tree,20000,weighted F1,0.7649
+Gradient Boosting Tree,20000,accuracy,0.7694
+Gradient Boosting Tree,None,macro F1,0.5665
+Gradient Boosting Tree,None,weighted F1,0.7648
+Gradient Boosting Tree,None,accuracy,0.7676
+Random Forest,5000,macro F1,0.447
+Random Forest,5000,weighted F1,0.7418
+Random Forest,5000,accuracy,0.764
+Random Forest,10000,macro F1,0.4292
+Random Forest,10000,weighted F1,0.7295
+Random Forest,10000,accuracy,0.7538
+Random Forest,20000,macro F1,0.3793
+Random Forest,20000,weighted F1,0.7074
+Random Forest,20000,accuracy,0.7355
+Random Forest,None,macro F1,0.4066
+Random Forest,None,weighted F1,0.7195
+Random Forest,None,accuracy,0.7458
+Decision Tree,5000,macro F1,0.4473
+Decision Tree,5000,weighted F1,0.6883
+Decision Tree,5000,accuracy,0.6928
+Decision Tree,10000,macro F1,0.4546
+Decision Tree,10000,weighted F1,0.688
+Decision Tree,10000,accuracy,0.6915
+Decision Tree,20000,macro F1,0.4609
+Decision Tree,20000,weighted F1,0.6923
+Decision Tree,20000,accuracy,0.6963
+Decision Tree,None,macro F1,0.4512
+Decision Tree,None,weighted F1,0.7041
+Decision Tree,None,accuracy,0.7079
+Voting,5000,macro F1,0.6009
+Voting,5000,weighted F1,0.7931
+Voting,5000,accuracy,0.7961
+Voting,10000,macro F1,0.5999
+Voting,10000,weighted F1,0.7924
+Voting,10000,accuracy,0.797
+Voting,20000,macro F1,0.6029
+Voting,20000,weighted F1,0.7937
+Voting,20000,accuracy,0.7988
+Voting,None,macro F1,0.5952
+Voting,None,weighted F1,0.7945
+Voting,None,accuracy,0.8001
+RNN,5000,macro F1,0.0503
+RNN,5000,weighted F1,0.3943
+RNN,5000,accuracy,0.4568
+RNN,10000,macro F1,0.1022
+RNN,10000,weighted F1,0.4283
+RNN,10000,accuracy,0.451
+RNN,20000,macro F1,0.0954
+RNN,20000,weighted F1,0.4164
+RNN,20000,accuracy,0.4372
+RNN,None,macro F1,0.0125
+RNN,None,weighted F1,0.1963
+RNN,None,accuracy,0.362
+MLP,5000,macro F1,0.5412
+MLP,5000,weighted F1,0.7883
+MLP,5000,accuracy,0.8005
+MLP,10000,macro F1,0.394
+MLP,10000,weighted F1,0.7713
+MLP,10000,accuracy,0.793
+MLP,20000,macro F1,0.4998
+MLP,20000,weighted F1,0.7843
+MLP,20000,accuracy,0.7979
+MLP,None,macro F1,0.3985
+MLP,None,weighted F1,0.7678
+MLP,None,accuracy,0.7881
